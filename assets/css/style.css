@@ -74,3 +74,14 @@ body {
 	padding-left: 12%;
 	font-size: 50px
 }
+
+.year-item {
+	width: 110px;
+	padding-top: 5%;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+/*.projectd {
+	display: none;
+}*/
