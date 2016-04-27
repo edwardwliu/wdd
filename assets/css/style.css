@@ -82,6 +82,10 @@ body {
 	padding-right: 9%;
 }
 
-/*.projectd {
+.projectd {
 	display: none;
-}*/
+}
+
+.year-item {
+	display: none;
+}
